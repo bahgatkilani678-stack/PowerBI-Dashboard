@@ -12,4 +12,4 @@ Interactive dashboard developed using Microsoft Power BI for data analysis and v
 
 ## Dashboard Preview
 
-![Power BI Dashboard](dashboard-preview.png)
+[Power BI Dashboard](dashboard-preview.png)
